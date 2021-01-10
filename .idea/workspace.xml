@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a600a4c8-c8cf-4722-a3b2-f7a3796ab6f2" name="Default Changelist" comment="0110">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0110.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/0110.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/0110.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zhou.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="F:\qin\0110\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mr8gRlD0Y7mQv6TjheBwtrBX5L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\qin\0110\src" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a600a4c8-c8cf-4722-a3b2-f7a3796ab6f2" name="Default Changelist" comment="" />
+      <created>1610240461578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610240461578</updated>
+      <workItem from="1610240466943" duration="1848000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="0110" />
+    <option name="LAST_COMMIT_MESSAGE" value="0110" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="400" y="23" key="CommitChangelistDialog2" timestamp="1610241627912">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="400" y="23" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1610241627912" />
+    <state x="675" y="320" width="273" height="220" key="Github.ShareDialog" timestamp="1610241653292">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="675" y="320" width="273" height="220" key="Github.ShareDialog/0.0.1600.860@0.0.1600.860" timestamp="1610241653292" />
+    <state x="670" y="134" key="Github.UntrackedFilesDialog" timestamp="1610240597932">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="670" y="134" key="Github.UntrackedFilesDialog/0.0.1600.860@0.0.1600.860" timestamp="1610240597932" />
+    <state x="480" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1610240468515">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="480" y="253" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1610240468515" />
+  </component>
+</project>
